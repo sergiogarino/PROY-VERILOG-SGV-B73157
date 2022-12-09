@@ -3,8 +3,6 @@
  * Fecha de entrega: 9/12/2022
  */
 
-
-
 module MUX4x1_Case( input [3:0] I,
                     input [1:0] S,
                     output reg Y);
